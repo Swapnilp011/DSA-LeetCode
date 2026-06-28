@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1518-water-bottles) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

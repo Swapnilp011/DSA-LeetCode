@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0989-add-to-array-form-of-integer](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

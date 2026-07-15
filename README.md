@@ -14,6 +14,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1518-water-bottles) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0179-largest-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

@@ -58,6 +58,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -76,12 +77,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -112,6 +115,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +142,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack

@@ -65,6 +65,7 @@
 | [0179-largest-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -127,6 +128,7 @@
 | [0042-trapping-rain-water](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |

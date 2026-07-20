@@ -184,6 +184,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0179-largest-number) |
 ## Number Theory
 |  |

@@ -94,6 +94,7 @@
 | [0169-majority-element](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
@@ -201,6 +203,7 @@
 | [0394-decode-string](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Number Theory
 |  |
 | ------- |

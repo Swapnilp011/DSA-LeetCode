@@ -45,6 +45,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1518-water-bottles) |
 ## Array
 |  |
@@ -76,6 +77,7 @@
 | [0704-binary-search](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -242,5 +244,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->

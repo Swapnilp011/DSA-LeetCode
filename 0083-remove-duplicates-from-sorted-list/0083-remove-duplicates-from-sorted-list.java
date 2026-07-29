@@ -21,12 +21,12 @@ class Solution {
       while(ptr!=null){
         if(ptr.val!=dummy.val){
             // ListNode temp=new ListNode(ptr.val);  -- it remove in 2nd approach
-            dummy.next=ptr;
+            dummy.next=ptr;  // in this change temp to ptr 
             dummy=dummy.next;
         }
         ptr=ptr.next;
       }
-      dummy.next=null;
+      dummy.next=null; // add this extra line for cut the extra list 
       return ans;
     }
 }

@@ -27,6 +27,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0342-power-of-four) |
@@ -261,5 +262,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

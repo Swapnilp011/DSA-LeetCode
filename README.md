@@ -263,5 +263,6 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

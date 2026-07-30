@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0048-rotate-image) |
@@ -27,6 +28,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -262,6 +264,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |

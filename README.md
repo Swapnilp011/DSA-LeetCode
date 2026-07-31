@@ -104,6 +104,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0268-missing-number) |
@@ -163,6 +164,7 @@
 | [0075-sort-colors](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0283-move-zeroes) |
@@ -269,6 +271,7 @@
 | [0002-add-two-numbers](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |

@@ -92,6 +92,7 @@
 | [0881-boats-to-save-people](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -216,6 +217,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
@@ -223,6 +225,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String
 |  |
@@ -285,5 +288,6 @@
 | [0234-palindrome-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0328-odd-even-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->

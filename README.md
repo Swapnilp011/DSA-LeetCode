@@ -311,4 +311,20 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0965-univalued-binary-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->

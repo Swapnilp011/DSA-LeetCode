@@ -247,6 +247,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0443-string-compression) |
@@ -321,12 +322,14 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -341,5 +344,10 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0965-univalued-binary-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

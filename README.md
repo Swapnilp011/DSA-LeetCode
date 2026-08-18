@@ -169,6 +169,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [0881-boats-to-save-people](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1382-balance-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -341,6 +343,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -356,6 +359,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -389,6 +393,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -402,6 +407,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Swapnilp011/DSA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
